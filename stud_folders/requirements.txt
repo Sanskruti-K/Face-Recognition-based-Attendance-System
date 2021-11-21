@@ -1,1 +1,7 @@
+create 4 folders inside this folder within same directory.
+1)stud_faces - It contains train images of dataset
+2)stud_images - It will create sub folder for each and every students detected faces in multiple face direction.
+3)stud_test - It is for test data
+4)stud_temp - It is for temporary purpose after detection it will deleted.
+
 
